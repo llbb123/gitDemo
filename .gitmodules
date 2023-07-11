@@ -1,0 +1,3 @@
+[submodule "libo"]
+	path = libo
+	url = git@github.com:llbb123/libpng.git
